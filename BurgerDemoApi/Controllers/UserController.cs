@@ -22,5 +22,17 @@ namespace BurgerDemoApi.Controllers
         {
             return Ok(_userService.GetAllUsers());
         }
+
+        [HttpGet("GetUserByName{name}")]
+        [Authorize("Admin")]
+        public IActionResult GetUserByName(string name)
+        {
+            var exist = _userService.GetUserByName(name);
+            if (exist == null)
+            {
+                return NotFound("the user was not found");
+            }
+            return Ok(exist);
+        }
     }
 }
