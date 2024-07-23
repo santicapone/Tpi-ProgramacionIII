@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BurgerDemoApi",
+    "\\Domain",
+    "\\Domain\\bin",
+    "\\Domain\\Entities",
+    "\\Domain\\Enum",
+    "\\Infraestructure",
+    "\\Infraestructure\\Data"
+  ],
+  "PreviewInSolutionExplorer": false
+}

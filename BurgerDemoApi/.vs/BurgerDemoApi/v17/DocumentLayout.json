@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\BurgerDemoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\profiles\\adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\profiles\\clientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\profiles\\salelineprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\models\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\models\\authenticatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC32FAFC-68BD-45D8-B1B9-EDF25F672069}|..\\Domain\\Domain.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC32FAFC-68BD-45D8-B1B9-EDF25F672069}|..\\Domain\\Domain.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\models\\request\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Profiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Profiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Profiles\\ProductProfile.cs",
+              "RelativeToolTip": "..\\Application\\Profiles\\ProductProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T01:26:43.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleLineProfile.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Profiles\\SaleLineProfile.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Profiles\\SaleLineProfile.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Profiles\\SaleLineProfile.cs",
+              "RelativeToolTip": "..\\Application\\Profiles\\SaleLineProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T01:25:55.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminProfile.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Profiles\\AdminProfile.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Profiles\\AdminProfile.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Profiles\\AdminProfile.cs",
+              "RelativeToolTip": "..\\Application\\Profiles\\AdminProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T01:25:23.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientProfile.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Profiles\\ClientProfile.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Profiles\\ClientProfile.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Profiles\\ClientProfile.cs",
+              "RelativeToolTip": "..\\Application\\Profiles\\ClientProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T01:24:59.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Models\\ClientDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Models\\ClientDto.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Models\\ClientDto.cs",
+              "RelativeToolTip": "..\\Application\\Models\\ClientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T01:21:46.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\UserService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:29:17.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Domain\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Domain\\Entities\\Client.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:27:30.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:18:37.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:18:19.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Models\\Request\\AuthenticationRequest.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Models\\Request\\AuthenticationRequest.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Models\\Request\\AuthenticationRequest.cs",
+              "RelativeToolTip": "..\\Application\\Models\\Request\\AuthenticationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:12:56.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticateDto.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Models\\AuthenticateDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Models\\AuthenticateDto.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Models\\AuthenticateDto.cs",
+              "RelativeToolTip": "..\\Application\\Models\\AuthenticateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:08:24.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T23:20:41.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
