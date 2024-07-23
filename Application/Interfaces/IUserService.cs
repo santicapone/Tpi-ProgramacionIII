@@ -13,10 +13,10 @@ namespace Application.Interfaces
     {
         IEnumerable<User> GetAllUsers();
         OperationResult CreateClient(ClientDto clientDto);
-        OperationResult UpdateUser(int clintId ,ClientDto clientDto);  
+        OperationResult UpdateClient(int clintId ,ClientDto clientDto);  
         OperationResult CreateAdmin(AdminDto adminDto);
         bool DeleteUserById(int clintId);
-        User? GetUserById(int clintId);
         User GetUserByName(string name);
+
     }
 }

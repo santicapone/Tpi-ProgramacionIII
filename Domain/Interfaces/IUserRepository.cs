@@ -12,7 +12,7 @@ namespace Domain.Interfaces
         IEnumerable<User> GetAllUsers();
         User? GetUserById(int UserId);
         User? GetUserByUserName(string name);
-        void DeleteUserById(User userId);
+        void DeleteUser(User user);
         void UpdateUser(User user);
         void CreateAdmin(User user);
         void CreateClient(User user);

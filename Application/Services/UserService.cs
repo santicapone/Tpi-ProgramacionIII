@@ -30,19 +30,76 @@ namespace Application.Services
             return _userRepository.GetAllUsers();
         }
 
+
+
         public OperationResult CreateClient(ClientDto clientDto)
         {
-            if (!ValidatePassword(clientDto.Password)) {
+            if (!ValidatePassword(clientDto.Password))
+            
                 {
-                    return _operationResultService.CreateFailResult("");
+                    return _operationResultService.CreateFailResult("Password does not meet requirements");
                 }
-                var newClient =_mapper.Map<Client>(clientDto);
+                var newClient = _mapper.Map<Client>(clientDto);
                 _userRepository.CreateClient(newClient);
                 _userRepository.SaveChanges();
-                return _operationResultService.CreateSuccessResult("client created")
+
+                return _operationResultService.CreateSuccessResult("client created");
+            
         }
 
-             static bool ValidatePassword(string password)
+        public OperationResult CreateAdmin(AdminDto adminDto) 
+        {
+                if (ValidatePassword(adminDto.Password))
+                {
+                    return _operationResultService.CreateFailResult("Password does not meet requirements");
+                }
+                var newAdmin = _mapper.Map<Admin>(adminDto);
+                _userRepository.CreateAdmin(newAdmin);
+                _userRepository.SaveChanges();
+            return _operationResultService.CreateSuccessResult("Admin created");
+         }
+
+        public bool DeleteUserById(int id)
+        {
+            var user = _userRepository.GetUserById(id);
+            if (user != null) 
+            {
+                _userRepository.DeleteUser(user);
+                _userRepository.SaveChanges();
+                return true;
+            }
+            return false;
+        }
+
+        public User? GetUserByName(string name)
+        {
+            return _userRepository.GetUserByUserName(name);
+        }
+
+        public OperationResult UpdateClient(int id,ClientDto clientDto)
+        {
+            var exist = _userRepository.GetUserById(id);
+            if (exist == null)
+            {
+                return _operationResultService.CreateFailResult("the user was not found");
+            }
+            exist.Name = clientDto.Name;
+            exist.MailAdress = clientDto.MailAdress;
+
+            _userRepository.UpdateUser(exist);
+            _userRepository.SaveChanges();
+            return _operationResultService.CreateSuccessResult("Client updated");
+        }
+
+
+        
+
+
+
+
+
+
+            static bool ValidatePassword(string password)
             {
                 if (password.Contains("")) { return false; }
                 if (password.Length <= 4 || password.Length >= 10) { return false; }
@@ -53,7 +110,7 @@ namespace Application.Services
                 return true;
             }
 
-        }
 
+        
     }
 }
