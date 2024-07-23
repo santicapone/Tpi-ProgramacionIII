@@ -16,7 +16,7 @@ namespace Infraestructure.Data.Repositories
             _context = context;
         }
 
-        public bool SaveChanges()
+        public bool? SaveChanges()
         {
             return _context.SaveChanges() >= 0;
         }

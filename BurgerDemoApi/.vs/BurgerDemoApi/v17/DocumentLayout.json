@@ -3,20 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\BurgerDemoApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC32FAFC-68BD-45D8-B1B9-EDF25F672069}|..\\Domain\\Domain.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48D7DA6-9027-420D-BB22-B7EDB8A48CBD}|..\\Infraestructure\\Infraestructure.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\infraestructure\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48D7DA6-9027-420D-BB22-B7EDB8A48CBD}|..\\Infraestructure\\Infraestructure.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\infraestructure\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC32FAFC-68BD-45D8-B1B9-EDF25F672069}|..\\Domain\\Domain.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48D7DA6-9027-420D-BB22-B7EDB8A48CBD}|..\\Infraestructure\\Infraestructure.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\infraestructure\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2987377C-0BF1-4B45-835B-25F255A7634C}|BurgerDemoApi.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\burgerdemoapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2987377C-0BF1-4B45-835B-25F255A7634C}|BurgerDemoApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2987377C-0BF1-4B45-835B-25F255A7634C}|BurgerDemoApi.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\burgerdemoapi\\controllers\\salelinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2987377C-0BF1-4B45-835B-25F255A7634C}|BurgerDemoApi.csproj|solutionrelative:controllers\\salelinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2987377C-0BF1-4B45-835B-25F255A7634C}|BurgerDemoApi.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\burgerdemoapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2987377C-0BF1-4B45-835B-25F255A7634C}|BurgerDemoApi.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\interfaces\\isalelineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2987377C-0BF1-4B45-835B-25F255A7634C}|BurgerDemoApi.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\burgerdemoapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2987377C-0BF1-4B45-835B-25F255A7634C}|BurgerDemoApi.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC32FAFC-68BD-45D8-B1B9-EDF25F672069}|..\\Domain\\Domain.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62685F0D-28B4-4B25-9F15-3F531EDBFA68}|..\\Application\\Application.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2987377C-0BF1-4B45-835B-25F255A7634C}|BurgerDemoApi.csproj|c:\\users\\santi\\desktop\\tpi programacion 3\\burgerdemoapi\\burgerdemoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -63,17 +90,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:50:03.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Infraestructure\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infraestructure\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Infraestructure\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\Infraestructure\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAIAwwDgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:48:55.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Infraestructure\\Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\Infraestructure\\Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Infraestructure\\Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "..\\Infraestructure\\Data\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:48:30.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Infraestructure\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infraestructure\\Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Infraestructure\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Infraestructure\\Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:47:43.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISaleLineService.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Interfaces\\ISaleLineService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\ISaleLineService.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Interfaces\\ISaleLineService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\ISaleLineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:43:08.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\BurgerDemoApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\BurgerDemoApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:35:25.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaleLineController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\BurgerDemoApi\\Controllers\\SaleLineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SaleLineController.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\BurgerDemoApi\\Controllers\\SaleLineController.cs",
+              "RelativeToolTip": "Controllers\\SaleLineController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:34:36.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\BurgerDemoApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\BurgerDemoApi\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAJAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T02:26:04.96Z",
               "EditorCaption": ""
@@ -86,13 +204,40 @@
               "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Domain\\Interfaces\\IUserRepository.cs",
               "RelativeToolTip": "..\\Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T02:07:17.784Z"
+              "WhenOpened": "2024-07-23T02:07:17.784Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:18:19.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\BurgerDemoApi\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\BurgerDemoApi\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:35:03.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "BurgerDemoApi.csproj",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\BurgerDemoApi\\BurgerDemoApi.csproj",
               "RelativeDocumentMoniker": "BurgerDemoApi.csproj",
@@ -104,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "..\\Application\\Interfaces\\IUserService.cs",
@@ -112,12 +257,11 @@
               "RelativeToolTip": "..\\Application\\Interfaces\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T02:04:43.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T02:04:43.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\User.cs",
@@ -129,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "SaleLineProfile.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Profiles\\SaleLineProfile.cs",
               "RelativeDocumentMoniker": "..\\Application\\Profiles\\SaleLineProfile.cs",
@@ -141,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "AdminProfile.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Profiles\\AdminProfile.cs",
               "RelativeDocumentMoniker": "..\\Application\\Profiles\\AdminProfile.cs",
@@ -153,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "ClientProfile.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Profiles\\ClientProfile.cs",
               "RelativeDocumentMoniker": "..\\Application\\Profiles\\ClientProfile.cs",
@@ -165,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "ClientDto.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Models\\ClientDto.cs",
               "RelativeDocumentMoniker": "..\\Application\\Models\\ClientDto.cs",
@@ -177,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "..\\Application\\Services\\UserService.cs",
@@ -185,12 +329,11 @@
               "RelativeToolTip": "..\\Application\\Services\\UserService.cs",
               "ViewState": "AQIAAGUAAAAAAAAAAIAwwHQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T00:29:17.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T00:29:17.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Domain\\Entities\\Client.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Client.cs",
@@ -202,19 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Services\\ProductService.cs",
-              "RelativeToolTip": "..\\Application\\Services\\ProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T00:18:19.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "ProductProfile.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Profiles\\ProductProfile.cs",
               "RelativeDocumentMoniker": "..\\Application\\Profiles\\ProductProfile.cs",
@@ -226,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Domain\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IRepository.cs",
@@ -238,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "AuthenticationRequest.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Models\\Request\\AuthenticationRequest.cs",
               "RelativeDocumentMoniker": "..\\Application\\Models\\Request\\AuthenticationRequest.cs",
@@ -250,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "AuthenticateDto.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Models\\AuthenticateDto.cs",
               "RelativeDocumentMoniker": "..\\Application\\Models\\AuthenticateDto.cs",
@@ -262,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "AuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\TPI Programacion 3\\Application\\Services\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "..\\Application\\Services\\AuthenticationService.cs",

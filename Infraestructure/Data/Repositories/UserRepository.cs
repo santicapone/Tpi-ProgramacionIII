@@ -52,7 +52,7 @@ namespace Infraestructure.Data.Repositories
             SaveChanges();
         }
 
-        public void DeleteUserById(User user) 
+        public void DeleteUser(User user) 
         {
             _context.Users.Remove(user);
             SaveChanges();
