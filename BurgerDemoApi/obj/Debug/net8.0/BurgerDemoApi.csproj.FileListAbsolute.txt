@@ -138,3 +138,4 @@ C:\Users\santi\Desktop\TPI Programacion 3\BurgerDemoApi\bin\Debug\net8.0\tr\Micr
 C:\Users\santi\Desktop\TPI Programacion 3\BurgerDemoApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\santi\Desktop\TPI Programacion 3\BurgerDemoApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\santi\Desktop\TPI Programacion 3\BurgerDemoApi\obj\Debug\net8.0\BurgerDemoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\santi\Desktop\TPI Programacion 3\BurgerDemoApi\bin\Debug\net8.0\AutoMapper.dll

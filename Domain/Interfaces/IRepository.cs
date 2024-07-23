@@ -8,6 +8,6 @@ namespace Domain.Interfaces
 {
     public interface IRepository
     {
-        bool? SaveChanges();
+        bool SaveChanges();
     }
 }

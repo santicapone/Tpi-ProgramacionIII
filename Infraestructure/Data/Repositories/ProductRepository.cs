@@ -34,7 +34,7 @@ namespace Infraestructure.Data.Repositories
             SaveChanges();
         }
 
-        public void DeleteProduct(int? id) 
+        public void DeleteProduct(int id) 
         {
             _context.Products.Remove(_context.Products.Find(id));
             SaveChanges();

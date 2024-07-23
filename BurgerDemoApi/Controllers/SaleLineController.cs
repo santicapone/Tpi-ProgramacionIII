@@ -18,6 +18,8 @@ namespace BurgerDemoApi.Controllers
         }
 
         [HttpGet("GetAllSaleLines")]
+        [Authorize("Admin")] 
+        
         public IActionResult GetAllSaleLines()
         {
             return Ok(_saleLineService.GetAllSaleLines());

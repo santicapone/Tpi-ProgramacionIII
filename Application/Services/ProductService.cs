@@ -19,6 +19,7 @@ namespace Application.Services
 
        public Product? GetProductById(int id)
         {
+           
             return _productRepository.GetProductById(id);
         }
         public IEnumerable<Product> GetAllProducts() 
@@ -29,7 +30,7 @@ namespace Application.Services
         public void CreateProduct(Product product)
         {
             
-            
+;
         }
 
         public void UpdateProduct(Product product)
@@ -39,6 +40,7 @@ namespace Application.Services
         public void DeleteProduct(int ProductId)
         {
             _productRepository.DeleteProduct(ProductId);
+            
         }
 
                 
